@@ -103,7 +103,8 @@
     "karma-firefox-launcher": "*",
     "karma-phantomjs-launcher": "*",
     "karma-ng-scenario": "*",
-    "karma-coffee-preprocessor": "*"
+    "karma-coffee-preprocessor": "*" ,
+    "karma-roboci-reporter": "https://github.com/jmendiara/karma-roboci-reporter/tarball/master"
   },
   "preferGlobal": true,
   "repository": {
